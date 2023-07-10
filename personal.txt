@@ -1,5 +1,5 @@
 The personal details of employees 
-NAME:
-AGE:
-GENDER:
-DOB:
+NAME:Selva
+AGE:23
+GENDER:M
+DOB:15/04/2000
