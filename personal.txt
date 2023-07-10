@@ -1,5 +1,5 @@
 The personal details of employees 
-NAME:Selva
-AGE:23
+NAMERetro
+AGE:22
 GENDER:M
-DOB:15/04/2000
+DOB:23/01/2001
