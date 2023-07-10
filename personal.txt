@@ -1,0 +1,5 @@
+The personal details of employees 
+NAME:
+AGE:
+GENDER:
+DOB:
