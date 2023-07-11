@@ -1,5 +1,6 @@
 The personal details of employees 
-NAMERetro
+NAME:Retro
 AGE:22
 GENDER:M
 DOB:23/01/2001
+SSLC MARK : 490
